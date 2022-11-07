@@ -1,0 +1,1 @@
+# facebook-post-embed-joomla-plugin
